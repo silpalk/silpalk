@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silpalk
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently working on machine learning and AI
-- 💞️ I’m looking to collaborate on challenging AI projects
+- 💞️ I’m looking to collaborate on challenging ML projects
 - 📫 reach me on asilpa.s@gmail.com
 
 <!---
